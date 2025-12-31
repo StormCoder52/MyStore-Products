@@ -6,7 +6,7 @@
     "price": 150,
     "image": "https://cdn.jsdelivr.net/gh/StormCoder52/MyStore-assets@images/file_00000000b0147208aa547db6337301fe.png",
     "details": [
-      { "label": "Number of Posts", "value": "11" },
+      { "label": "Number of Posts", "value": "15" },
       { "label": "Theme", "value": "Blue" },
       { "label": "Content Type", "value": "Fact" }
     ]
